@@ -1,4 +1,4 @@
-package LoveBabbarQuestions.one;
+package LoveBabbarQuestions.ClassOne;
 
 import java.util.Scanner;
 
